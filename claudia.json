@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "ontologyservice-executor",
+    "name": "ontologyservice",
+    "region": "us-east-2"
+  },
+  "api": {
+    "id": "7gi9ssm24e"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "mockData" : false,
+    "corsUrl" : "https://master.d3bkwzqhrvxynp.amplifyapp.com",
+    "port" : 4000,
+    "DBConnection": {
+        "host":"mysqlserver.ctfhlnr321qs.us-east-2.rds.amazonaws.com",
+        "user":"",
+        "password":"",
+        "database":"ontology"
+    }
+}
